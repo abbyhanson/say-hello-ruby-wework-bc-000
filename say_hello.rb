@@ -1,1 +1,3 @@
-def greeting# Build your say_hello method here
+# Build your say_hello method here
+def say_hello = "Abby"
+puts say_hello
